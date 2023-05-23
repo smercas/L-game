@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1673288364 source:c:\users\stefan\desktop\ip projects\l game\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<ctime>
+	<iomanip>
+	<fstream>
+	"important_variables_and_structures.h"
+	"arena.h"
+	"buttons.h"
+	"node_functions.h"
+	"possible_moves_and_move_functions.h"
+
+1670677615 c:\users\stefan\desktop\ip projects\l game\structures.h
+
+1673544107 c:\users\stefan\desktop\ip projects\l game\buttons.h
+
+1670677835 c:\users\stefan\desktop\ip projects\l game\important_variables.h
+
+1673288178 c:\users\stefan\desktop\ip projects\l game\arena.h
+
+1673287700 c:\users\stefan\desktop\ip projects\l game\important_variables_and_structures.h
+
+1673287700 c:\users\stefan\desktop\ip projects\l game\node_functions.h
+
+1672161080 c:\users\stefan\desktop\ip projects\l game\possible_moves_and_ai.h
+
+1676486506 c:\users\stefan\desktop\ip projects\l game\possible_moves_and_move_functions.h
+
